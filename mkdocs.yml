@@ -23,6 +23,8 @@ theme:
 
 docs_dir: ./docs
 
+site_dir: ./build
+
 extra:
   generator: false
 
