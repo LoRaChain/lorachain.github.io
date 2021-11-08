@@ -4,4 +4,4 @@ Günümüzde toplumlar; devletler ve onların müttefiki şirketler tarafından 
 
 LoRaChain burada amaç kazanıyor. LoRa kullanıcılarından oluşan bir ağ üzerinden ücretsiz, şifreli, hiçbir şirket ve/veya devletin kontrolü altında olmayan, sunucusuz yapısıyla muhtaç kaldığımız mahremiyeti sunuyor.
 
-![LoRaChain](logo.png)
+![LoRaChain](images/logo.png)
